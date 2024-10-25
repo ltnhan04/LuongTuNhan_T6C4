@@ -1,9 +1,9 @@
-# Hi there 👋, I'm **Luong Tu Nhan**  
+# Hi there 👋, I'm **Nhan Luong**  
 ### Passionate Frontend Developer from Vietnam 🌍
 
 - 🌟 **Innovating one line of code at a time.**
 - 🔭 Currently exploring **Next.js, GSAP, Three.js**
-- 💬 Ask me about **React, Redux Toolkit**
+- 💬 Ask me about **ReactJS, Redux Toolkit**
 - 📫 How to reach me: **luongtunhan2004@gmail.com**
 
 <p align="center">
@@ -14,11 +14,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+dreams+into+reality.;One+pixel+at+a+time." alt="Typing SVG" />
 </p>
 
-
 <p align="center">
   <img alt="Coding" width="60%" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
 </p>
 
+---
 
 ## 🌐 Connect with Me:
 
@@ -83,9 +83,24 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a> 
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ltnhan04&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
+---
+
+## 🗂️ Top Languages:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ltnhan04&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ltnhan04&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ltnhan04&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ltnhan04&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 ---
@@ -98,13 +113,25 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 💻 LeetCode Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ltnhan04&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ltnhan04&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://leetcard.jacoblin.cool/ltnhan_04?theme=light&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
+---
 
+## 🛠️ Projects:
 
+### [Frontend for an iPhone Sales Website](https://i-tribe.vercel.app/)
+- **Technologies:** Three.js, TypeScript, Next.js, GSAP, Redux Toolkit, RTK Query, Shadcn UI, Zod Validation
+- **Description:** A comprehensive platform for managing iPhone sales, including product management, user authentication, order processing, payments, and inventory tracking.
+
+### [SSO Integration](https://sso-pointer.vercel.app/)
+- **Technologies:** TypeScript, ReactJS, GSAP, Tanstack React Query, Shadcn UI, Next.js 14
+- **Description:** The frontend integrates seamlessly with an SSO system, implementing robust security protocols to ensure secure authentication and efficient session management across various applications.
+
+### [Pointer Wallet Frontend](https://wallet.pointer.io.vn/)
+- **Technologies:** TypeScript, ReactJS, Wallet Payment Gateway, E-wallet, Redux Toolkit
+- **Description:** A wallet payment gateway application designed for handling transactions and managing e-wallet functionality effectively.
 
