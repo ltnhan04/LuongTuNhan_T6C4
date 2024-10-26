@@ -1,4 +1,4 @@
-# Hi there 👋, I'm **Nhan Luong**  
+# Hi there 👋, I'm **Luong Tu Nhan**  
 ### Passionate Frontend Developer from Vietnam 🌍
 
 - 🌟 **Innovating one line of code at a time.**
