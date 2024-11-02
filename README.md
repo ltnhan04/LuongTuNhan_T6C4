@@ -2,7 +2,7 @@
 ### Passionate Frontend Developer from Vietnam 🌍
 
 - 🌟 **Innovating one line of code at a time.**
-- 🔭 Currently exploring **Next.js, GSAP, Three.js**
+- 🔭 Currently exploring **Next.js, GSAP, Three.js, Docker**
 - 💬 Ask me about **ReactJS, Redux Toolkit**
 - 📫 How to reach me: **luongtunhan2004@gmail.com**
 
@@ -238,6 +238,9 @@
   <p align="left">
     <a href="https://expo.dev/" target="_blank" rel="noreferrer">
       <img src="https://custom-icon-badges.herokuapp.com/badge/Expo-3A3D3D.svg?logo=expo&logoColor=white" alt="Expo"/>
+    </a>
+    <a href="https://expo.dev/go" target="_blank" rel="noreferrer">
+      <img src="https://custom-icon-badges.herokuapp.com/badge/Expo-3A3D3D.svg?logo=expo-go-app-logo-bbbe394cb8-seeklogo-2&logoColor=white" alt="Expo"/>
     </a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
       <img src="https://custom-icon-badges.herokuapp.com/badge/React%20Native-61DAFB.svg?logo=react&logoColor=black" alt="React Native"/>
