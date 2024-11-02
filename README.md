@@ -170,7 +170,7 @@
 
 ---
 
-### [SSO Integration Project](https://sso-pointer.vercel.app/)
+### [SSO Integration Project](https://sso-pointer.vercel.app/login)
 - **Technologies & Libraries:**  
   <p align="left">
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
