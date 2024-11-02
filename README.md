@@ -33,7 +33,7 @@
 
 ---
 
-## 👨‍💻 Programming languages && Tools:
+## 👨‍💻 Skills && Tools:
 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
