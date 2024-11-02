@@ -156,7 +156,19 @@
       <img src="https://custom-icon-badges.herokuapp.com/badge/JWT-000000.svg?logo=jsonwebtokens&logoColor=white" alt="JWT"/>
     </a>
   </p>
-- **Description:** A comprehensive frontend application designed for selling iPhones with an engaging user interface.
+
+- **Description:** iTribe is an e-commerce platform specializing in iPhones, with a modern landing page featuring sleek animations and 3D iPhone models.
+  - 🔐 **Enhanced Account Management**: Secure user accounts using JWT with access and refresh tokens, and 2FA via OTP.
+  - ☁️ **Cloud Storage**: Uses Cloudinary for efficient image and video storage.
+  - 🔍 **Advanced Product Search & Filter**: Find iPhones by multiple criteria.
+  - 🕑 **Order History and Tracking**: View detailed order and transaction history with timestamps and status.
+  - ⭐ **Product Reviews & Responses**: Users can leave reviews; admins can respond for better buyer insights.
+  - 🔔 **Real-Time Notifications**: Sends updates on orders, status, and offers via email or in-app.
+  - 🛒 **Shopping Functionalities**: Provides carts, wishlists, and purchase tracking.
+  - 💳 **Payments**: Supports transactions via Stripe and Pointer Wallet.
+  - 💬 **Real-Time Support Chat**: Enables live chat with admin for customer support.
+
+---
 
 ### [SSO Integration Project](https://sso-pointer.vercel.app/)
 - **Technologies & Libraries:**  
@@ -173,7 +185,7 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img src="https://custom-icon-badges.herokuapp.com/badge/TailwindCSS-38B2AC.svg?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
     </a>
-        <a href="https://ui.shadcn.dev/" target="_blank" rel="noreferrer">
+    <a href="https://ui.shadcn.dev/" target="_blank" rel="noreferrer">
       <img src="https://custom-icon-badges.herokuapp.com/badge/Shadcn UI-6200EA.svg?logo=shadcn&logoColor=white" alt="Shadcn UI"/>
     </a>
     <a href="https://zod.dev/" target="_blank" rel="noreferrer">
@@ -183,9 +195,15 @@
       <img src="https://custom-icon-badges.herokuapp.com/badge/JWT-000000.svg?logo=jsonwebtokens&logoColor=white" alt="JWT"/>
     </a>
   </p>
-- **Description:** A Single Sign-On (SSO) solution with OAuth, JWT handling, and security protocols for a secure and smooth user experience.
 
-### [Pointer Wallet Frontend](https://wallet.pointer.io.vn/)
+- **Description:** SSO Pointer is a single sign-on (SSO) service similar to Google OAuth, designed to streamline user access across multiple services with a single account.
+  - 🔑 **Unified Access Management**: Users can log in to all registered services with a single account.
+  - 🔐 **Secure Authentication**: Uses JWT for secure login with access and refresh token management.
+  - 📲 **Multi-Device Session Control**: Allows users to manage active sessions across devices and offers remote sign-out.
+
+---
+
+### [Pointer Wallet(Website)](https://wallet.pointer.io.vn/)
 - **Technologies & Libraries:**  
   <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -207,5 +225,39 @@
       <img src="https://custom-icon-badges.herokuapp.com/badge/JWT-000000.svg?logo=jsonwebtokens&logoColor=white" alt="JWT"/>
     </a>
   </p>
-- **Description:** A wallet management frontend built for handling multi-currency and multi-feature integrations.
+
+- **Description:** Pointer Wallet is a versatile digital wallet designed for a Microservice ecosystem, providing users with a secure and efficient financial management experience.
+  - 💵 **Multi-Currency Support**: Supports VND, USD, and ETH (Ethereum).
+  - 🔄 **Payment and Transaction Management**: Allows users to deposit, withdraw, add/manage credit cards, and make payments.
+  - 📊 **Detailed Financial Reporting**: Provides financial reports for tracking expenses, deposits, and withdrawals.
+  - 💱 **Multi-Currency Auto Conversion**: Converts currencies automatically during cross-currency payments.
+  - 📷 **QR Code & Invoice Scanning**: Receive funds via QR code and scan invoices for transactions.
+  - 🗒️ **Transaction History**: Includes detailed history with descriptions, timestamps, and categorization.
+### [pressPay (Mobile App)](https://github.com/ltnhan04/e-wallet)
+- **Technologies & Libraries:**  
+  <p align="left">
+    <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+      <img src="https://custom-icon-badges.herokuapp.com/badge/Expo-3A3D3D.svg?logo=expo&logoColor=white" alt="Expo"/>
+    </a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+      <img src="https://custom-icon-badges.herokuapp.com/badge/React%20Native-61DAFB.svg?logo=react&logoColor=black" alt="React Native"/>
+    </a>
+    <a href="https://reactnavigation.org/" target="_blank" rel="noreferrer">
+      <img src="https://custom-icon-badges.herokuapp.com/badge/React%20Navigation-61DAFB.svg?logo=react&logoColor=black" alt="React Navigation"/>
+    </a>
+    <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
+      <img src="https://custom-icon-badges.herokuapp.com/badge/Axios-5A29E4.svg?logo=axios&logoColor=white" alt="Axios"/>
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img src="https://custom-icon-badges.herokuapp.com/badge/TailwindCSS-38B2AC.svg?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+    </a>
+  </p>
+
+- **Description:** pressPay is the first version of Pointer Wallet, developed using the React Native Expo Framework. This payment service enables seamless financial transactions within the microservice system.
+  - 💳 **Core Payment Operations**: Allows users to deposit, withdraw, and transfer funds, as well as manage credit cards.
+  - 👥 **Group Payment and Invoice Sharing**: Supports group payments and bill splitting for shared purchases.
+  - 📅 **Mobile Transaction Management**: Users can view transaction history, manage pending transactions, and request support directly through the mobile interface.
+  - 📱 **QR Code Payments**: Allows users to scan QR codes for payment transactions.
+  - 🎟️ **Promotion Codes**: Users can apply promotion codes to payment orders for added savings.
+---
 
