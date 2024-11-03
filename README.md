@@ -83,7 +83,10 @@
   </a>&nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://custom-icon-badges.herokuapp.com/badge/Postman-FF6C37.svg?logo=postman&logoColor=white" alt="postman" />
-  </a> 
+  </a>
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+      <img src="https://custom-icon-badges.herokuapp.com/badge/Vercel-000000.svg?logo=vercel&logoColor=white" alt="Vercel"/>
+    </a>
 </p>
 
 
@@ -240,7 +243,7 @@
       <img src="https://custom-icon-badges.herokuapp.com/badge/Expo-3A3D3D.svg?logo=expo&logoColor=white" alt="Expo"/>
     </a>
     <a href="https://expo.dev/go" target="_blank" rel="noreferrer">
-      <img src="https://custom-icon-badges.herokuapp.com/badge/Expo-3A3D3D.svg?logo=expo-go-app-logo-bbbe394cb8-seeklogo-2&logoColor=white" alt="Expo"/>
+      <img src="https://custom-icon-badges.herokuapp.com/badge/Expo%20Go-3A3D3D.svg?logo=expo-go-app-logo-bbbe394cb8-seeklogo-2&logoColor=white" alt="Expo Go"/>
     </a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
       <img src="https://custom-icon-badges.herokuapp.com/badge/React%20Native-61DAFB.svg?logo=react&logoColor=black" alt="React Native"/>
